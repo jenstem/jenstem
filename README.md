@@ -59,7 +59,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jennifer-s-913445265/" target="blank"><img align="center" src="https://github.com/jenstem/jenstem/blob/main/linkedInIcon.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/22820388/astranova" target="blank"><img align="center" src="https://github.com/jenstem/jenstem/blob/main/stackoverflowIcon.png" alt="Stack Overflow" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/22820388/astranova" target="blank"><img align="center" src="https://github.com/jenstem/jenstem/blob/main/portfolioIcon.png" alt="My Portfolio" height="40" width="40" /></a>
+<a href="https://main--elegant-manatee-16206a.netlify.app/" target="blank"><img align="center" src="https://github.com/jenstem/jenstem/blob/main/portfolioIcon.png" alt="My Portfolio" height="40" width="40" /></a>
 </p>
 <br>
 
