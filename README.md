@@ -10,8 +10,6 @@
 
 - Working on a React Flashcard App
 
-- Learning Python
-
 - Click to view [my portfolio](https://main--elegant-manatee-16206a.netlify.app/)
 
 - Contact me at **jennifer.stemkowski@gmail.com**
@@ -38,8 +36,8 @@
     - Node.js
     - Flask
     - Express
-    - Python (currently learning)
-    - Flask (currently learning)
+    - Python
+    - Flask
 
 
 - Database
