@@ -2,13 +2,15 @@
 
 <h1 align="center">Hello World, I'm Jen!</h1>
 <h3 align="center">A dedicated Software Engineer from New England</h3>
-<p align="center">I aim to create web applications that are both user-friendly and aesthetically pleasing.  As a full stack developer, I have an undeniable love for building things (from web apps to Lego toys), I enjoy turning large complex problems into small simple concepts and using my integrity-based principles to enhance the world around me</p>
+<p align="center">I aim to create web applications that are both user-friendly and aesthetically pleasing.  As a full stack developer, I have an undeniable love for building things (from web apps to Lego toys), I enjoy turning large complex problems into small simple concepts and using my ingenuity-based mindset to enhance the world around me</p>
 
 <img align="center" src="https://github.com/jenstem/jenstem/blob/main/goldbar.jpg" alt="goldbar" height="2" width="900"/>
 
 <h3 align="center">Currently...</h3>
 
-- Working on a React Flashcard App
+- Working with a team to build a React Flashcard App
+
+- Working solo to create a Python/Django Budget Tracker
 
 - Click to view [my portfolio](https://main--elegant-manatee-16206a.netlify.app/)
 
@@ -34,9 +36,9 @@
 
 - Backend
     - Node.js
-    - Flask
     - Express
     - Python
+    - Django
     - Flask
 
 
