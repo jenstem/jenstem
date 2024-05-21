@@ -10,7 +10,7 @@
 
 - Working with a team to build a React Flashcard App
 
-- Working solo to create a Python/Django Budget Tracker
+- Working solo to create a AWS app
 
 - Click to view [my portfolio](https://main--elegant-manatee-16206a.netlify.app/)
 
