@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World, I'm Jen!</h1>
 <h3 align="center">A dedicated Software Engineer from New England</h3>
-<p align="center">I aim to create web applications that are both user-friendly and aesthetically pleasing.  As a full stack developer, I have an undeniable love for building things (from web apps to Lego toys), I enjoy turning large complex problems into small simple concepts</p>
+<p align="center">I aim to create web applications that are both user-friendly and aesthetically pleasing.  As a full stack developer, I have an undeniable love for building things (from web apps to Lego toys), I enjoy turning large complex problems into small simple concepts.</p>
 
 <img align="center" src="https://github.com/jenstem/jenstem/blob/main/goldbar.jpg" alt="goldbar" height="2" width="900"/>
 
