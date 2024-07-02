@@ -12,7 +12,7 @@
 
 - Working solo to expand my Python skills
 
-- Click to view [my portfolio]([https://jenscode.com/])
+- Click to view ![my portfolio](https://jenscode.com/)
 
 - Contact me at **jennifer.stemkowski@gmail.com**
 
