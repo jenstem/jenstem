@@ -10,7 +10,7 @@
 
 - Working with a team to build a React Flashcard App
 
-- Working solo to expand my Python skills
+- Working solo to learn C#
 
 - Click to view [my portfolio](https://jenscode.com/)
 
