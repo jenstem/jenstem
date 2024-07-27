@@ -8,7 +8,7 @@
 
 <h3 align="center">Currently...</h3>
 
-- Working with a team to build a React Flashcard App
+- Working with a team to build a React Flashcard Application
 
 - Working solo to learn C#
 
