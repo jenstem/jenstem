@@ -10,7 +10,7 @@
 
 - Working with a team to build a React Flashcard App
 
-- Working solo to learn C#
+- Working solo to learn Jupyter Notebook
 
 - Click to view [my portfolio](https://jenscode.com/)
 
