@@ -64,6 +64,7 @@
     - Heroku
     - Wordpress
     - Adobe Photoshop
+    - Slack
 
 <img align="center" src="https://github.com/jenstem/jenstem/blob/main/goldbar.jpg" alt="goldbar" height="2" width="900"/>
 
