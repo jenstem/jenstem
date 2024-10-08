@@ -10,7 +10,7 @@
 
 - Working with a team to build a React Flashcard App
 
-- Working solo to learn Jupyter Notebook
+- Working solo to learn Python Django Blog
 
 - Click to view [my portfolio](https://jenscode.com/)
 
@@ -30,7 +30,7 @@
     - CSS
     - HTML
     - jQuery
-    - GraphQL
+    - Jupyter Notebook
     - Mongoose
     - TypeScript
 
@@ -38,6 +38,7 @@
 - Backend
     - Node.js
     - Express.js
+    - GraphQL
     - Python
     - Django
     - Flask
