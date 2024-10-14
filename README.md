@@ -10,7 +10,7 @@
 
 - Working with a team to build a React Flashcard App
 
-- Working solo to learn Python Django Blog
+- Working solo to build Python Django Blog + learn to code AI
 
 - Click to view [my portfolio](https://jenscode.com/)
 
