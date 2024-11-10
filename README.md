@@ -42,6 +42,9 @@
     - Python
     - Django
     - Flask
+    - Pandas
+    - NumPy
+    - Matplotlib
     - AWS
     - REST API
     - C#
@@ -65,7 +68,10 @@
     - Heroku
     - Wordpress
     - Adobe Photoshop
+    - npm
+    - pip
     - Slack
+    - Zoom
 
 <img align="center" src="https://github.com/jenstem/jenstem/blob/main/goldbar.jpg" alt="goldbar" height="2" width="900"/>
 
