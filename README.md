@@ -14,7 +14,7 @@
 
 - Click to view [my portfolio](https://jenscode.com/)
 
-- Contact me at **jennifer.stemkowski@gmail.com**
+- Contact me via GitHub.
 
 <img align="center" src="https://github.com/jenstem/jenstem/blob/main/goldbar.jpg" alt="goldbar" height="2" width="900"/>
 
