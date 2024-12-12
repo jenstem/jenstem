@@ -88,4 +88,4 @@
 <br>
 <img align="center" src="https://github.com/jenstem/jenstem/blob/main/goldbar.jpg" alt="goldbar" height="2" width="900"/>
 
-<p align="right" > Created with 💚 by Jen Stemkowski</a></p>
+<p align="right" > Created with 💚 by Jen</a></p>
